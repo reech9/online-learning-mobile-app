@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "674682665669",
+    "project_id": "digishool-352205",
+    "storage_bucket": "digishool-352205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674682665669:android:d6b646b539261c947aceac",
+        "android_client_info": {
+          "package_name": "com.example.digi_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674682665669-tb3uugaoujp17s8tvdvsmh3ijv7hbc37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTXumQM9or0i_is0g2dLNwmV1WhJAj_Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674682665669-j8o847meg9clr2kfl3cithn382n3s8kj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674682665669-btqnq07o2ngj2ubt8s4ovmbu4uqp1a29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674682665669:android:1372fd39ec1000657aceac",
+        "android_client_info": {
+          "package_name": "np.edu.digischool.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674682665669-tb3uugaoujp17s8tvdvsmh3ijv7hbc37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTXumQM9or0i_is0g2dLNwmV1WhJAj_Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674682665669-j8o847meg9clr2kfl3cithn382n3s8kj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674682665669-btqnq07o2ngj2ubt8s4ovmbu4uqp1a29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digiSchool"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
